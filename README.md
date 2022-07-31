@@ -10,7 +10,7 @@ This repository is for data analysis in football, such as goals, shots, players'
 ## How to run this piece of software (Installation Options )
 Please, follow these steps to be able to run the code:
 1. Install the dependencies listed in requirements.txt
-2. Download the sample data into the "../../ Statsbomb "folder
+2. Download the sample data into the "../../ Statsbomb" folder
 3. Run Egypt vs Saudi Arabia shots.py
 
 ## The sample data can be found in the following repositories:
