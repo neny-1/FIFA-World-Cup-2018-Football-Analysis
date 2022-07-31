@@ -3,7 +3,8 @@ This repository is for data analysis in football, such as goals, shots, players'
 
 - The beginning with  Egypt against Saudi Arabia match shots 
 
-![shots](https://user-images.githubusercontent.com/56697867/182027030-41820fa6-647c-4f4a-a068-b22d782d62ed.png)
+![shots](https://user-images.githubusercontent.com/56697867/182028408-4b5e66fe-feeb-4275-849b-137fa3e5594d.png)
+
 
 - I will upload more matches with more analysis
 
